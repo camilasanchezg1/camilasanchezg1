@@ -19,6 +19,6 @@
 
 ###
 
-<p data-importer="text" align="left"> Visual Studio Code, Java, Python<br></p>
+<p data-importer="text" align="left"> Visual Studio Code, Java, Python, SQL, Oracle<br></p>
 
 ###
